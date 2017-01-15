@@ -1,0 +1,13 @@
+.wxIcon{
+    display: inline-block;
+    overflow: hidden;
+    -webkit-background-size:100% 100%;
+    background-size:100% 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.wxIcon-container{
+    display: inline-block;
+    overflow: hidden;
+}

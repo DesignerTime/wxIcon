@@ -1,0 +1,4 @@
+<template name="wxIcon">
+<view class="wxIcon-container" style="width: {{width}}; height:{{height}};"><view class="wxIcon" style="width: {{width}}; height:{{height}};background-image:url({{url}});filter:  drop-shadow({{color}} {{width}} 0px);left: -{{width}};border-right: {{width}} solid transparent;-webkit-filter:  drop-shadow({{color}} {{width}} 0px);" /></view>
+    
+</template>
